@@ -35,10 +35,11 @@ InsightFit is a statistical data analysis project focused on identifying behavio
    ```bash
    pip install -r requirements.txt
    ```  
-4. Run the analysis script:  
+4. Launch Jupyter Notebook:
    ```bash
-   python analysis.py
-   ```  
+   jupyter notebook
+   ```
+5. Open the InsightFit.ipynb notebook to run and interact with the analysis.
 
 Usage
 
