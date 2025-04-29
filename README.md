@@ -42,28 +42,22 @@ InsightFit is a statistical data analysis project focused on identifying behavio
 
 Usage
 
-    Execute the analysis script to perform statistical analysis on the obesity dataset.
+    - Execute the analysis script to perform statistical analysis on the obesity dataset.
 
-    Adjust dataset paths and parameters as needed for customized analysis.
+    - Adjust dataset paths and parameters as needed for customized analysis.
 
-    Visualize trends, test hypotheses, and explore relationships using the provided graphs and tables.
+    - Visualize trends, test hypotheses, and explore relationships using the provided graphs and tables.
 
 Future Enhancements
 
-    Develop predictive machine learning models for obesity classification and risk prediction
+    - Develop predictive machine learning models for obesity classification and risk prediction
 
-    Integrate additional datasets for a broader and more diverse demographic analysis
+    - Integrate additional datasets for a broader and more diverse demographic analysis
 
-    Build a web-based interactive dashboard for real-time data exploration
+    - Build a web-based interactive dashboard for real-time data exploration
 
 License
 
 This project is open-source and available under the MIT License.
-Contributing
 
 Contributions are welcome. Feel free to fork the repository, submit issues, or open pull requests.   
-
-Contact
-
-Developed by Eternalstar69
-GitHub: https://github.com/Eternalstar69
