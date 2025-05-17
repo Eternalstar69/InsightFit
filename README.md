@@ -1,11 +1,16 @@
-# InsightFit – Obesity and Nutrition Data Analysis  
+ InsightFit – Obesity and Nutrition Data Analysis 
+ ---
 
-## Overview  
+Overview  
+---  
+
 InsightFit is a statistical data analysis project focused on identifying behavioral, dietary, and demographic factors influencing obesity. This project leverages Python’s data science libraries to perform statistical tests, correlation analysis, hypothesis testing, and create insightful visualizations to uncover key trends within obesity-related data.
 
----
 
-## Features  
+
+ Features  
+ ---
+ 
 - Comprehensive data cleaning and preprocessing (handling missing values, duplicates, and correcting data types)  
 - Exploratory Data Analysis (EDA) with descriptive statistics and visualizations  
 - Chi-Square tests to analyze associations between categorical variables  
@@ -15,13 +20,16 @@ InsightFit is a statistical data analysis project focused on identifying behavio
 
 ---
 
-## Technologies Used  
+ Technologies Used  
+ ---
+ 
 - Programming Language: Python  
 - Libraries: Pandas, NumPy, SciPy, Seaborn, Matplotlib  
 
 ---
 
-## Installation  
+ Installation  
+--- 
 
 1. Clone the repository:  
    ```bash
@@ -41,23 +49,28 @@ InsightFit is a statistical data analysis project focused on identifying behavio
    ```
 5. Open the InsightFit.ipynb notebook to run and interact with the analysis.
 
+
 Usage
+--- 
 
     - Execute the analysis script to perform statistical analysis on the obesity dataset.
 
     - Adjust dataset paths and parameters as needed for customized analysis.
 
     - Visualize trends, test hypotheses, and explore relationships using the provided graphs and tables.
+    
 
 Future Enhancements
-
+---
     - Develop predictive machine learning models for obesity classification and risk prediction
 
     - Integrate additional datasets for a broader and more diverse demographic analysis
 
     - Build a web-based interactive dashboard for real-time data exploration
+    
 
 License
+---
 
 This project is open-source and available under the MIT License.
 
